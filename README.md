@@ -123,3 +123,6 @@ Usando tabs e espaços
 
 * Criar plugin de sintaxe highlight para sublime
 * Obter feedbacks sobre esse ideia, e verificar se já não existe algo semelhante
+
+## Projetos similares
+ * [PlainTasks](https://github.com/aziz/PlainTasks)
